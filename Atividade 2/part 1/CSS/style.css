@@ -1,0 +1,25 @@
+#div1{
+    background-color: black;
+    color:white;
+    display: inline-block;
+    width: 33%;
+    height: 1000px;
+    text-align: center;
+
+}
+#div2{
+    background-color: rgb(127, 168, 60);
+    color:white;
+    display: inline-block;
+    width: 33%;
+    height: 1000px;
+    text-align: center;
+}
+#div3{
+    background-color: rgb(167, 167, 167);
+    color: white;
+    display: inline-block;
+    width: 33%;
+    height: 1000px;
+    text-align: center;
+}
